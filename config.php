@@ -4,9 +4,9 @@
 	// Sample created by Jan Cordeiro
 	
 	$servername = "localhost";
-	$username = "u403007536_root";
-	$password = "J8k4n2v4";
-	$database = "u403007536_sampleform";
+	$username = "root";
+	$password = "root";
+	$database = "user_registration";
 	
 	$conexao = new mysqli($servername,$username,$password,$database)
 	
